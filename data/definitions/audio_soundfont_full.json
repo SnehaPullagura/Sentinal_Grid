@@ -1,0 +1,295 @@
+{
+  "schema_version": "1.0.0",
+  "sound_effects": [
+    {
+      "name": "shot_kinetic_light",
+      "waveform": "sawtooth",
+      "base_frequency_hz": 145.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "shot_kinetic_heavy",
+      "waveform": "sawtooth",
+      "base_frequency_hz": 170.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "shot_railgun",
+      "waveform": "sawtooth",
+      "base_frequency_hz": 195.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "shot_laser_continuous",
+      "waveform": "sawtooth",
+      "base_frequency_hz": 220.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "shot_plasma_mortar",
+      "waveform": "sawtooth",
+      "base_frequency_hz": 245.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "shot_cryo_stream",
+      "waveform": "sawtooth",
+      "base_frequency_hz": 270.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "shot_arc_tesla",
+      "waveform": "sawtooth",
+      "base_frequency_hz": 295.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "shot_nanite_swarm",
+      "waveform": "sawtooth",
+      "base_frequency_hz": 320.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "shot_missile_launch",
+      "waveform": "sawtooth",
+      "base_frequency_hz": 345.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "shot_solar_lance",
+      "waveform": "sawtooth",
+      "base_frequency_hz": 370.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "shot_flak_burst",
+      "waveform": "sawtooth",
+      "base_frequency_hz": 395.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "shot_sonic_pulse",
+      "waveform": "sawtooth",
+      "base_frequency_hz": 420.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "explosion_plasma",
+      "waveform": "noise",
+      "base_frequency_hz": 445.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "explosion_artillery",
+      "waveform": "noise",
+      "base_frequency_hz": 470.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "explosion_emp",
+      "waveform": "noise",
+      "base_frequency_hz": 495.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "hit_shield_deflect",
+      "waveform": "sine",
+      "base_frequency_hz": 520.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "hit_armor_shred",
+      "waveform": "sine",
+      "base_frequency_hz": 545.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "hit_flesh_impact",
+      "waveform": "sine",
+      "base_frequency_hz": 570.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "alarm_base_breach",
+      "waveform": "sine",
+      "base_frequency_hz": 595.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "alarm_boss_inbound",
+      "waveform": "sine",
+      "base_frequency_hz": 620.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "ability_orbital_strike",
+      "waveform": "sine",
+      "base_frequency_hz": 645.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "ability_overclock",
+      "waveform": "sine",
+      "base_frequency_hz": 670.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "ability_cryo_surge",
+      "waveform": "sine",
+      "base_frequency_hz": 695.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "ability_emp_surge",
+      "waveform": "sine",
+      "base_frequency_hz": 720.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "ui_click",
+      "waveform": "sine",
+      "base_frequency_hz": 745.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "ui_buy_tower",
+      "waveform": "sine",
+      "base_frequency_hz": 770.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "ui_sell_tower",
+      "waveform": "sine",
+      "base_frequency_hz": 795.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "ui_upgrade_tower",
+      "waveform": "sine",
+      "base_frequency_hz": 820.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    },
+    {
+      "name": "ui_error_denied",
+      "waveform": "sine",
+      "base_frequency_hz": 845.0,
+      "attack_sec": 0.01,
+      "decay_sec": 0.15,
+      "sustain_level": 0.4,
+      "release_sec": 0.25,
+      "volume_gain": 0.8
+    }
+  ]
+}

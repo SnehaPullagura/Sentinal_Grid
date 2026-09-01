@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0.0",
+  "abilities": [
+    {
+      "id": "orbital_strike",
+      "name": "Orbital Kinetic Strike",
+      "energy_cost": 40,
+      "cooldown": 30.0,
+      "radius": 90.0,
+      "damage": 250.0,
+      "description": "High-impact orbital kinetic projectile blast"
+    },
+    {
+      "id": "cryo_surge",
+      "name": "Cryo Flash Freeze",
+      "energy_cost": 25,
+      "cooldown": 20.0,
+      "radius": 120.0,
+      "duration": 4.0,
+      "description": "Instantly freezes all hostiles in sector for 4s"
+    },
+    {
+      "id": "nano_repair",
+      "name": "Nanite Base Repair",
+      "energy_cost": 35,
+      "cooldown": 45.0,
+      "heal_amount": 25.0,
+      "description": "Repairs 25 Base HP integrity"
+    },
+    {
+      "id": "overclock",
+      "name": "Grid Overclock",
+      "energy_cost": 30,
+      "cooldown": 25.0,
+      "duration": 8.0,
+      "fire_rate_boost": 0.5,
+      "description": "Boosts all tower attack speeds by 50% for 8s"
+    },
+    {
+      "id": "emp_blast",
+      "name": "EMP Sector Surge",
+      "energy_cost": 35,
+      "cooldown": 28.0,
+      "radius": 140.0,
+      "description": "Disables enemy electronic auras and shields"
+    },
+    {
+      "id": "barricade_drop",
+      "name": "Tactical Barricade Airdrop",
+      "energy_cost": 20,
+      "cooldown": 15.0,
+      "hp": 400.0,
+      "description": "Deploys heavy physical wall rerouting enemy paths"
+    },
+    {
+      "id": "gold_rush",
+      "name": "Bounty Protocol Stim",
+      "energy_cost": 15,
+      "cooldown": 35.0,
+      "multiplier": 2.0,
+      "duration": 10.0,
+      "description": "Doubles credit reward from enemy kills for 10s"
+    },
+    {
+      "id": "tactical_scan",
+      "name": "Deep Sensor Recon",
+      "energy_cost": 10,
+      "cooldown": 12.0,
+      "radius": 200.0,
+      "description": "Reveals cloaked assassins and amplifies target damage by 20%"
+    }
+  ]
+}

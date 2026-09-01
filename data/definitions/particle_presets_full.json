@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0.0",
+  "presets": [
+    {
+      "preset_id": "kinetic_spark",
+      "color_hex": "#00f0ff",
+      "count": 15,
+      "speed": 80.0,
+      "lifetime_sec": 0.4,
+      "gravity": 0.0,
+      "fade_out": true
+    },
+    {
+      "preset_id": "plasma_detonation",
+      "color_hex": "#f59e0b",
+      "count": 35,
+      "speed": 140.0,
+      "lifetime_sec": 0.8,
+      "gravity": 0.0,
+      "fade_out": true
+    },
+    {
+      "preset_id": "cryo_frost_burst",
+      "color_hex": "#38bdf8",
+      "count": 20,
+      "speed": 60.0,
+      "lifetime_sec": 0.6,
+      "gravity": 0.0,
+      "fade_out": true
+    },
+    {
+      "preset_id": "tesla_arc_flash",
+      "color_hex": "#a855f7",
+      "count": 25,
+      "speed": 110.0,
+      "lifetime_sec": 0.3,
+      "gravity": 0.0,
+      "fade_out": true
+    },
+    {
+      "preset_id": "emp_ring_wave",
+      "color_hex": "#3b82f6",
+      "count": 50,
+      "speed": 180.0,
+      "lifetime_sec": 0.7,
+      "gravity": 0.0,
+      "fade_out": true
+    },
+    {
+      "preset_id": "nanite_corrosion_cloud",
+      "color_hex": "#22c55e",
+      "count": 30,
+      "speed": 45.0,
+      "lifetime_sec": 1.2,
+      "gravity": 0.0,
+      "fade_out": true
+    },
+    {
+      "preset_id": "orbital_impact_crater",
+      "color_hex": "#ef4444",
+      "count": 60,
+      "speed": 220.0,
+      "lifetime_sec": 1.0,
+      "gravity": 0.0,
+      "fade_out": true
+    },
+    {
+      "preset_id": "boss_enrage_aura",
+      "color_hex": "#dc2626",
+      "count": 40,
+      "speed": 95.0,
+      "lifetime_sec": 1.5,
+      "gravity": 0.0,
+      "fade_out": true
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sentinel-grid"
+version = "1.0.0"
+description = "2D Adaptive Tower Defense Strategy Game & Simulation Engine"
+readme = "README.md"
+authors = [{ name = "Sneha Pullagura" }]
+license = { text = "Proprietary" }
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.110.0",
+    "uvicorn>=0.28.0",
+    "pydantic>=2.6.0",
+    "sqlalchemy>=2.0.0",
+    "pytest>=8.0.0"
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

@@ -1,0 +1,905 @@
+{
+  "schema_version": "1.0.0",
+  "sectors": [
+    {
+      "sector_id": "sector_01",
+      "name": "Strategic Sector 01 - Zone B",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 420,
+        "energy": 105,
+        "base_hp": 100.0
+      },
+      "total_waves": 11,
+      "environment": "Atmospheric Ion Storm"
+    },
+    {
+      "sector_id": "sector_02",
+      "name": "Strategic Sector 02 - Zone C",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 440,
+        "energy": 110,
+        "base_hp": 100.0
+      },
+      "total_waves": 12,
+      "environment": "High Radiation Zone"
+    },
+    {
+      "sector_id": "sector_03",
+      "name": "Strategic Sector 03 - Zone D",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 460,
+        "energy": 115,
+        "base_hp": 100.0
+      },
+      "total_waves": 13,
+      "environment": "Atmospheric Ion Storm"
+    },
+    {
+      "sector_id": "sector_04",
+      "name": "Strategic Sector 04 - Zone E",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 480,
+        "energy": 120,
+        "base_hp": 100.0
+      },
+      "total_waves": 14,
+      "environment": "High Radiation Zone"
+    },
+    {
+      "sector_id": "sector_05",
+      "name": "Strategic Sector 05 - Zone F",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 500,
+        "energy": 125,
+        "base_hp": 100.0
+      },
+      "total_waves": 15,
+      "environment": "Atmospheric Ion Storm"
+    },
+    {
+      "sector_id": "sector_06",
+      "name": "Strategic Sector 06 - Zone G",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 520,
+        "energy": 130,
+        "base_hp": 100.0
+      },
+      "total_waves": 16,
+      "environment": "High Radiation Zone"
+    },
+    {
+      "sector_id": "sector_07",
+      "name": "Strategic Sector 07 - Zone H",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 540,
+        "energy": 135,
+        "base_hp": 100.0
+      },
+      "total_waves": 17,
+      "environment": "Atmospheric Ion Storm"
+    },
+    {
+      "sector_id": "sector_08",
+      "name": "Strategic Sector 08 - Zone I",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 560,
+        "energy": 140,
+        "base_hp": 100.0
+      },
+      "total_waves": 18,
+      "environment": "High Radiation Zone"
+    },
+    {
+      "sector_id": "sector_09",
+      "name": "Strategic Sector 09 - Zone J",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 580,
+        "energy": 145,
+        "base_hp": 100.0
+      },
+      "total_waves": 19,
+      "environment": "Atmospheric Ion Storm"
+    },
+    {
+      "sector_id": "sector_10",
+      "name": "Strategic Sector 10 - Zone K",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 600,
+        "energy": 150,
+        "base_hp": 100.0
+      },
+      "total_waves": 20,
+      "environment": "High Radiation Zone"
+    },
+    {
+      "sector_id": "sector_11",
+      "name": "Strategic Sector 11 - Zone L",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 620,
+        "energy": 155,
+        "base_hp": 100.0
+      },
+      "total_waves": 21,
+      "environment": "Atmospheric Ion Storm"
+    },
+    {
+      "sector_id": "sector_12",
+      "name": "Strategic Sector 12 - Zone M",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 640,
+        "energy": 160,
+        "base_hp": 100.0
+      },
+      "total_waves": 22,
+      "environment": "High Radiation Zone"
+    },
+    {
+      "sector_id": "sector_13",
+      "name": "Strategic Sector 13 - Zone N",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 660,
+        "energy": 165,
+        "base_hp": 100.0
+      },
+      "total_waves": 23,
+      "environment": "Atmospheric Ion Storm"
+    },
+    {
+      "sector_id": "sector_14",
+      "name": "Strategic Sector 14 - Zone O",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 680,
+        "energy": 170,
+        "base_hp": 100.0
+      },
+      "total_waves": 24,
+      "environment": "High Radiation Zone"
+    },
+    {
+      "sector_id": "sector_15",
+      "name": "Strategic Sector 15 - Zone P",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 700,
+        "energy": 175,
+        "base_hp": 100.0
+      },
+      "total_waves": 25,
+      "environment": "Atmospheric Ion Storm"
+    },
+    {
+      "sector_id": "sector_16",
+      "name": "Strategic Sector 16 - Zone Q",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 720,
+        "energy": 180,
+        "base_hp": 100.0
+      },
+      "total_waves": 26,
+      "environment": "High Radiation Zone"
+    },
+    {
+      "sector_id": "sector_17",
+      "name": "Strategic Sector 17 - Zone R",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 740,
+        "energy": 185,
+        "base_hp": 100.0
+      },
+      "total_waves": 27,
+      "environment": "Atmospheric Ion Storm"
+    },
+    {
+      "sector_id": "sector_18",
+      "name": "Strategic Sector 18 - Zone S",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 760,
+        "energy": 190,
+        "base_hp": 100.0
+      },
+      "total_waves": 28,
+      "environment": "High Radiation Zone"
+    },
+    {
+      "sector_id": "sector_19",
+      "name": "Strategic Sector 19 - Zone T",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 780,
+        "energy": 195,
+        "base_hp": 100.0
+      },
+      "total_waves": 29,
+      "environment": "Atmospheric Ion Storm"
+    },
+    {
+      "sector_id": "sector_20",
+      "name": "Strategic Sector 20 - Zone U",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 800,
+        "energy": 200,
+        "base_hp": 100.0
+      },
+      "total_waves": 30,
+      "environment": "High Radiation Zone"
+    },
+    {
+      "sector_id": "sector_21",
+      "name": "Strategic Sector 21 - Zone V",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 820,
+        "energy": 205,
+        "base_hp": 100.0
+      },
+      "total_waves": 31,
+      "environment": "Atmospheric Ion Storm"
+    },
+    {
+      "sector_id": "sector_22",
+      "name": "Strategic Sector 22 - Zone W",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 840,
+        "energy": 210,
+        "base_hp": 100.0
+      },
+      "total_waves": 32,
+      "environment": "High Radiation Zone"
+    },
+    {
+      "sector_id": "sector_23",
+      "name": "Strategic Sector 23 - Zone X",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 860,
+        "energy": 215,
+        "base_hp": 100.0
+      },
+      "total_waves": 33,
+      "environment": "Atmospheric Ion Storm"
+    },
+    {
+      "sector_id": "sector_24",
+      "name": "Strategic Sector 24 - Zone Y",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 880,
+        "energy": 220,
+        "base_hp": 100.0
+      },
+      "total_waves": 34,
+      "environment": "High Radiation Zone"
+    },
+    {
+      "sector_id": "sector_25",
+      "name": "Strategic Sector 25 - Zone Z",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 900,
+        "energy": 225,
+        "base_hp": 100.0
+      },
+      "total_waves": 35,
+      "environment": "Atmospheric Ion Storm"
+    },
+    {
+      "sector_id": "sector_26",
+      "name": "Strategic Sector 26 - Zone A",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 920,
+        "energy": 230,
+        "base_hp": 100.0
+      },
+      "total_waves": 36,
+      "environment": "High Radiation Zone"
+    },
+    {
+      "sector_id": "sector_27",
+      "name": "Strategic Sector 27 - Zone B",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 940,
+        "energy": 235,
+        "base_hp": 100.0
+      },
+      "total_waves": 37,
+      "environment": "Atmospheric Ion Storm"
+    },
+    {
+      "sector_id": "sector_28",
+      "name": "Strategic Sector 28 - Zone C",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 960,
+        "energy": 240,
+        "base_hp": 100.0
+      },
+      "total_waves": 38,
+      "environment": "High Radiation Zone"
+    },
+    {
+      "sector_id": "sector_29",
+      "name": "Strategic Sector 29 - Zone D",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 980,
+        "energy": 245,
+        "base_hp": 100.0
+      },
+      "total_waves": 39,
+      "environment": "Atmospheric Ion Storm"
+    },
+    {
+      "sector_id": "sector_30",
+      "name": "Strategic Sector 30 - Zone E",
+      "grid_dimensions": {
+        "width": 32,
+        "height": 24,
+        "cell_size": 32.0
+      },
+      "spawns": [
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 16.0,
+          "y": 700.0
+        }
+      ],
+      "objective_base": {
+        "x": 960.0,
+        "y": 350.0
+      },
+      "initial_economy": {
+        "credits": 1000,
+        "energy": 250,
+        "base_hp": 100.0
+      },
+      "total_waves": 40,
+      "environment": "High Radiation Zone"
+    }
+  ]
+}

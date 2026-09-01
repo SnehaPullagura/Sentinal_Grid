@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0.0",
+  "worlds": [
+    {
+      "id": "world_1",
+      "name": "Iron Frontier",
+      "theme": "Desert Outpost",
+      "levels_count": 5,
+      "boss": "Dreadnought Titan"
+    },
+    {
+      "id": "world_2",
+      "name": "Neon Grid",
+      "theme": "Cyber Metropolis",
+      "levels_count": 5,
+      "boss": "Cyber Hive Carrier"
+    },
+    {
+      "id": "world_3",
+      "name": "Void Abyss",
+      "theme": "Asteroid Stronghold",
+      "levels_count": 5,
+      "boss": "Hydra Broodmother"
+    },
+    {
+      "id": "world_4",
+      "name": "Plasma Rift",
+      "theme": "Volcanic Core",
+      "levels_count": 5,
+      "boss": "Heavy Colossus"
+    },
+    {
+      "id": "world_5",
+      "name": "Cryo Tundra",
+      "theme": "Glacial Sub-Zero",
+      "levels_count": 5,
+      "boss": "Frost Walker Overlord"
+    },
+    {
+      "id": "world_6",
+      "name": "Omega Citadel",
+      "theme": "Apex Central Command",
+      "levels_count": 5,
+      "boss": "Apocalypse Overlord"
+    }
+  ]
+}

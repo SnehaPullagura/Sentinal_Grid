@@ -1,0 +1,455 @@
+{
+  "schema_version": "1.0.0",
+  "achievements": [
+    {
+      "id": "ach_01",
+      "title": "Tactical Distinction #01",
+      "category": "Economy",
+      "description": "Successfully execute level 1 operational requirements in Economy defense theater.",
+      "target_value": 50,
+      "reward_tokens": 15,
+      "badge_icon": "badge_icon_economy_1"
+    },
+    {
+      "id": "ach_02",
+      "title": "Tactical Distinction #02",
+      "category": "Tactics",
+      "description": "Successfully execute level 2 operational requirements in Tactics defense theater.",
+      "target_value": 100,
+      "reward_tokens": 20,
+      "badge_icon": "badge_icon_tactics_2"
+    },
+    {
+      "id": "ach_03",
+      "title": "Tactical Distinction #03",
+      "category": "Mastery",
+      "description": "Successfully execute level 3 operational requirements in Mastery defense theater.",
+      "target_value": 150,
+      "reward_tokens": 25,
+      "badge_icon": "badge_icon_mastery_3"
+    },
+    {
+      "id": "ach_04",
+      "title": "Tactical Distinction #04",
+      "category": "Campaign",
+      "description": "Successfully execute level 4 operational requirements in Campaign defense theater.",
+      "target_value": 200,
+      "reward_tokens": 30,
+      "badge_icon": "badge_icon_campaign_4"
+    },
+    {
+      "id": "ach_05",
+      "title": "Tactical Distinction #05",
+      "category": "Combat",
+      "description": "Successfully execute level 5 operational requirements in Combat defense theater.",
+      "target_value": 250,
+      "reward_tokens": 10,
+      "badge_icon": "badge_icon_combat_5"
+    },
+    {
+      "id": "ach_06",
+      "title": "Tactical Distinction #06",
+      "category": "Economy",
+      "description": "Successfully execute level 6 operational requirements in Economy defense theater.",
+      "target_value": 300,
+      "reward_tokens": 15,
+      "badge_icon": "badge_icon_economy_0"
+    },
+    {
+      "id": "ach_07",
+      "title": "Tactical Distinction #07",
+      "category": "Tactics",
+      "description": "Successfully execute level 7 operational requirements in Tactics defense theater.",
+      "target_value": 350,
+      "reward_tokens": 20,
+      "badge_icon": "badge_icon_tactics_1"
+    },
+    {
+      "id": "ach_08",
+      "title": "Tactical Distinction #08",
+      "category": "Mastery",
+      "description": "Successfully execute level 8 operational requirements in Mastery defense theater.",
+      "target_value": 400,
+      "reward_tokens": 25,
+      "badge_icon": "badge_icon_mastery_2"
+    },
+    {
+      "id": "ach_09",
+      "title": "Tactical Distinction #09",
+      "category": "Campaign",
+      "description": "Successfully execute level 9 operational requirements in Campaign defense theater.",
+      "target_value": 450,
+      "reward_tokens": 30,
+      "badge_icon": "badge_icon_campaign_3"
+    },
+    {
+      "id": "ach_10",
+      "title": "Tactical Distinction #10",
+      "category": "Combat",
+      "description": "Successfully execute level 10 operational requirements in Combat defense theater.",
+      "target_value": 500,
+      "reward_tokens": 10,
+      "badge_icon": "badge_icon_combat_4"
+    },
+    {
+      "id": "ach_11",
+      "title": "Tactical Distinction #11",
+      "category": "Economy",
+      "description": "Successfully execute level 11 operational requirements in Economy defense theater.",
+      "target_value": 550,
+      "reward_tokens": 15,
+      "badge_icon": "badge_icon_economy_5"
+    },
+    {
+      "id": "ach_12",
+      "title": "Tactical Distinction #12",
+      "category": "Tactics",
+      "description": "Successfully execute level 12 operational requirements in Tactics defense theater.",
+      "target_value": 600,
+      "reward_tokens": 20,
+      "badge_icon": "badge_icon_tactics_0"
+    },
+    {
+      "id": "ach_13",
+      "title": "Tactical Distinction #13",
+      "category": "Mastery",
+      "description": "Successfully execute level 13 operational requirements in Mastery defense theater.",
+      "target_value": 650,
+      "reward_tokens": 25,
+      "badge_icon": "badge_icon_mastery_1"
+    },
+    {
+      "id": "ach_14",
+      "title": "Tactical Distinction #14",
+      "category": "Campaign",
+      "description": "Successfully execute level 14 operational requirements in Campaign defense theater.",
+      "target_value": 700,
+      "reward_tokens": 30,
+      "badge_icon": "badge_icon_campaign_2"
+    },
+    {
+      "id": "ach_15",
+      "title": "Tactical Distinction #15",
+      "category": "Combat",
+      "description": "Successfully execute level 15 operational requirements in Combat defense theater.",
+      "target_value": 750,
+      "reward_tokens": 10,
+      "badge_icon": "badge_icon_combat_3"
+    },
+    {
+      "id": "ach_16",
+      "title": "Tactical Distinction #16",
+      "category": "Economy",
+      "description": "Successfully execute level 16 operational requirements in Economy defense theater.",
+      "target_value": 800,
+      "reward_tokens": 15,
+      "badge_icon": "badge_icon_economy_4"
+    },
+    {
+      "id": "ach_17",
+      "title": "Tactical Distinction #17",
+      "category": "Tactics",
+      "description": "Successfully execute level 17 operational requirements in Tactics defense theater.",
+      "target_value": 850,
+      "reward_tokens": 20,
+      "badge_icon": "badge_icon_tactics_5"
+    },
+    {
+      "id": "ach_18",
+      "title": "Tactical Distinction #18",
+      "category": "Mastery",
+      "description": "Successfully execute level 18 operational requirements in Mastery defense theater.",
+      "target_value": 900,
+      "reward_tokens": 25,
+      "badge_icon": "badge_icon_mastery_0"
+    },
+    {
+      "id": "ach_19",
+      "title": "Tactical Distinction #19",
+      "category": "Campaign",
+      "description": "Successfully execute level 19 operational requirements in Campaign defense theater.",
+      "target_value": 950,
+      "reward_tokens": 30,
+      "badge_icon": "badge_icon_campaign_1"
+    },
+    {
+      "id": "ach_20",
+      "title": "Tactical Distinction #20",
+      "category": "Combat",
+      "description": "Successfully execute level 20 operational requirements in Combat defense theater.",
+      "target_value": 1000,
+      "reward_tokens": 10,
+      "badge_icon": "badge_icon_combat_2"
+    },
+    {
+      "id": "ach_21",
+      "title": "Tactical Distinction #21",
+      "category": "Economy",
+      "description": "Successfully execute level 21 operational requirements in Economy defense theater.",
+      "target_value": 1050,
+      "reward_tokens": 15,
+      "badge_icon": "badge_icon_economy_3"
+    },
+    {
+      "id": "ach_22",
+      "title": "Tactical Distinction #22",
+      "category": "Tactics",
+      "description": "Successfully execute level 22 operational requirements in Tactics defense theater.",
+      "target_value": 1100,
+      "reward_tokens": 20,
+      "badge_icon": "badge_icon_tactics_4"
+    },
+    {
+      "id": "ach_23",
+      "title": "Tactical Distinction #23",
+      "category": "Mastery",
+      "description": "Successfully execute level 23 operational requirements in Mastery defense theater.",
+      "target_value": 1150,
+      "reward_tokens": 25,
+      "badge_icon": "badge_icon_mastery_5"
+    },
+    {
+      "id": "ach_24",
+      "title": "Tactical Distinction #24",
+      "category": "Campaign",
+      "description": "Successfully execute level 24 operational requirements in Campaign defense theater.",
+      "target_value": 1200,
+      "reward_tokens": 30,
+      "badge_icon": "badge_icon_campaign_0"
+    },
+    {
+      "id": "ach_25",
+      "title": "Tactical Distinction #25",
+      "category": "Combat",
+      "description": "Successfully execute level 25 operational requirements in Combat defense theater.",
+      "target_value": 1250,
+      "reward_tokens": 10,
+      "badge_icon": "badge_icon_combat_1"
+    },
+    {
+      "id": "ach_26",
+      "title": "Tactical Distinction #26",
+      "category": "Economy",
+      "description": "Successfully execute level 26 operational requirements in Economy defense theater.",
+      "target_value": 1300,
+      "reward_tokens": 15,
+      "badge_icon": "badge_icon_economy_2"
+    },
+    {
+      "id": "ach_27",
+      "title": "Tactical Distinction #27",
+      "category": "Tactics",
+      "description": "Successfully execute level 27 operational requirements in Tactics defense theater.",
+      "target_value": 1350,
+      "reward_tokens": 20,
+      "badge_icon": "badge_icon_tactics_3"
+    },
+    {
+      "id": "ach_28",
+      "title": "Tactical Distinction #28",
+      "category": "Mastery",
+      "description": "Successfully execute level 28 operational requirements in Mastery defense theater.",
+      "target_value": 1400,
+      "reward_tokens": 25,
+      "badge_icon": "badge_icon_mastery_4"
+    },
+    {
+      "id": "ach_29",
+      "title": "Tactical Distinction #29",
+      "category": "Campaign",
+      "description": "Successfully execute level 29 operational requirements in Campaign defense theater.",
+      "target_value": 1450,
+      "reward_tokens": 30,
+      "badge_icon": "badge_icon_campaign_5"
+    },
+    {
+      "id": "ach_30",
+      "title": "Tactical Distinction #30",
+      "category": "Combat",
+      "description": "Successfully execute level 30 operational requirements in Combat defense theater.",
+      "target_value": 1500,
+      "reward_tokens": 10,
+      "badge_icon": "badge_icon_combat_0"
+    },
+    {
+      "id": "ach_31",
+      "title": "Tactical Distinction #31",
+      "category": "Economy",
+      "description": "Successfully execute level 31 operational requirements in Economy defense theater.",
+      "target_value": 1550,
+      "reward_tokens": 15,
+      "badge_icon": "badge_icon_economy_1"
+    },
+    {
+      "id": "ach_32",
+      "title": "Tactical Distinction #32",
+      "category": "Tactics",
+      "description": "Successfully execute level 32 operational requirements in Tactics defense theater.",
+      "target_value": 1600,
+      "reward_tokens": 20,
+      "badge_icon": "badge_icon_tactics_2"
+    },
+    {
+      "id": "ach_33",
+      "title": "Tactical Distinction #33",
+      "category": "Mastery",
+      "description": "Successfully execute level 33 operational requirements in Mastery defense theater.",
+      "target_value": 1650,
+      "reward_tokens": 25,
+      "badge_icon": "badge_icon_mastery_3"
+    },
+    {
+      "id": "ach_34",
+      "title": "Tactical Distinction #34",
+      "category": "Campaign",
+      "description": "Successfully execute level 34 operational requirements in Campaign defense theater.",
+      "target_value": 1700,
+      "reward_tokens": 30,
+      "badge_icon": "badge_icon_campaign_4"
+    },
+    {
+      "id": "ach_35",
+      "title": "Tactical Distinction #35",
+      "category": "Combat",
+      "description": "Successfully execute level 35 operational requirements in Combat defense theater.",
+      "target_value": 1750,
+      "reward_tokens": 10,
+      "badge_icon": "badge_icon_combat_5"
+    },
+    {
+      "id": "ach_36",
+      "title": "Tactical Distinction #36",
+      "category": "Economy",
+      "description": "Successfully execute level 36 operational requirements in Economy defense theater.",
+      "target_value": 1800,
+      "reward_tokens": 15,
+      "badge_icon": "badge_icon_economy_0"
+    },
+    {
+      "id": "ach_37",
+      "title": "Tactical Distinction #37",
+      "category": "Tactics",
+      "description": "Successfully execute level 37 operational requirements in Tactics defense theater.",
+      "target_value": 1850,
+      "reward_tokens": 20,
+      "badge_icon": "badge_icon_tactics_1"
+    },
+    {
+      "id": "ach_38",
+      "title": "Tactical Distinction #38",
+      "category": "Mastery",
+      "description": "Successfully execute level 38 operational requirements in Mastery defense theater.",
+      "target_value": 1900,
+      "reward_tokens": 25,
+      "badge_icon": "badge_icon_mastery_2"
+    },
+    {
+      "id": "ach_39",
+      "title": "Tactical Distinction #39",
+      "category": "Campaign",
+      "description": "Successfully execute level 39 operational requirements in Campaign defense theater.",
+      "target_value": 1950,
+      "reward_tokens": 30,
+      "badge_icon": "badge_icon_campaign_3"
+    },
+    {
+      "id": "ach_40",
+      "title": "Tactical Distinction #40",
+      "category": "Combat",
+      "description": "Successfully execute level 40 operational requirements in Combat defense theater.",
+      "target_value": 2000,
+      "reward_tokens": 10,
+      "badge_icon": "badge_icon_combat_4"
+    },
+    {
+      "id": "ach_41",
+      "title": "Tactical Distinction #41",
+      "category": "Economy",
+      "description": "Successfully execute level 41 operational requirements in Economy defense theater.",
+      "target_value": 2050,
+      "reward_tokens": 15,
+      "badge_icon": "badge_icon_economy_5"
+    },
+    {
+      "id": "ach_42",
+      "title": "Tactical Distinction #42",
+      "category": "Tactics",
+      "description": "Successfully execute level 42 operational requirements in Tactics defense theater.",
+      "target_value": 2100,
+      "reward_tokens": 20,
+      "badge_icon": "badge_icon_tactics_0"
+    },
+    {
+      "id": "ach_43",
+      "title": "Tactical Distinction #43",
+      "category": "Mastery",
+      "description": "Successfully execute level 43 operational requirements in Mastery defense theater.",
+      "target_value": 2150,
+      "reward_tokens": 25,
+      "badge_icon": "badge_icon_mastery_1"
+    },
+    {
+      "id": "ach_44",
+      "title": "Tactical Distinction #44",
+      "category": "Campaign",
+      "description": "Successfully execute level 44 operational requirements in Campaign defense theater.",
+      "target_value": 2200,
+      "reward_tokens": 30,
+      "badge_icon": "badge_icon_campaign_2"
+    },
+    {
+      "id": "ach_45",
+      "title": "Tactical Distinction #45",
+      "category": "Combat",
+      "description": "Successfully execute level 45 operational requirements in Combat defense theater.",
+      "target_value": 2250,
+      "reward_tokens": 10,
+      "badge_icon": "badge_icon_combat_3"
+    },
+    {
+      "id": "ach_46",
+      "title": "Tactical Distinction #46",
+      "category": "Economy",
+      "description": "Successfully execute level 46 operational requirements in Economy defense theater.",
+      "target_value": 2300,
+      "reward_tokens": 15,
+      "badge_icon": "badge_icon_economy_4"
+    },
+    {
+      "id": "ach_47",
+      "title": "Tactical Distinction #47",
+      "category": "Tactics",
+      "description": "Successfully execute level 47 operational requirements in Tactics defense theater.",
+      "target_value": 2350,
+      "reward_tokens": 20,
+      "badge_icon": "badge_icon_tactics_5"
+    },
+    {
+      "id": "ach_48",
+      "title": "Tactical Distinction #48",
+      "category": "Mastery",
+      "description": "Successfully execute level 48 operational requirements in Mastery defense theater.",
+      "target_value": 2400,
+      "reward_tokens": 25,
+      "badge_icon": "badge_icon_mastery_0"
+    },
+    {
+      "id": "ach_49",
+      "title": "Tactical Distinction #49",
+      "category": "Campaign",
+      "description": "Successfully execute level 49 operational requirements in Campaign defense theater.",
+      "target_value": 2450,
+      "reward_tokens": 30,
+      "badge_icon": "badge_icon_campaign_1"
+    },
+    {
+      "id": "ach_50",
+      "title": "Tactical Distinction #50",
+      "category": "Combat",
+      "description": "Successfully execute level 50 operational requirements in Combat defense theater.",
+      "target_value": 2500,
+      "reward_tokens": 10,
+      "badge_icon": "badge_icon_combat_2"
+    }
+  ]
+}

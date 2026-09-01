@@ -1,0 +1,1097 @@
+{
+  "schema_version": "1.0.0",
+  "branches": {
+    "ballistics": [
+      {
+        "tier": 1,
+        "node_id": "ballistics_tier_1",
+        "name": "Ballistics Apex Mastery 1",
+        "token_cost": 20,
+        "damage_multiplier": 1.05,
+        "range_multiplier": 1.03,
+        "description": "Enhances ballistics weapon class output by 5%."
+      },
+      {
+        "tier": 2,
+        "node_id": "ballistics_tier_2",
+        "name": "Ballistics Apex Mastery 2",
+        "token_cost": 30,
+        "damage_multiplier": 1.1,
+        "range_multiplier": 1.06,
+        "description": "Enhances ballistics weapon class output by 10%."
+      },
+      {
+        "tier": 3,
+        "node_id": "ballistics_tier_3",
+        "name": "Ballistics Apex Mastery 3",
+        "token_cost": 40,
+        "damage_multiplier": 1.15,
+        "range_multiplier": 1.09,
+        "description": "Enhances ballistics weapon class output by 15%."
+      },
+      {
+        "tier": 4,
+        "node_id": "ballistics_tier_4",
+        "name": "Ballistics Apex Mastery 4",
+        "token_cost": 50,
+        "damage_multiplier": 1.2,
+        "range_multiplier": 1.12,
+        "description": "Enhances ballistics weapon class output by 20%."
+      },
+      {
+        "tier": 5,
+        "node_id": "ballistics_tier_5",
+        "name": "Ballistics Apex Mastery 5",
+        "token_cost": 60,
+        "damage_multiplier": 1.25,
+        "range_multiplier": 1.15,
+        "description": "Enhances ballistics weapon class output by 25%."
+      },
+      {
+        "tier": 6,
+        "node_id": "ballistics_tier_6",
+        "name": "Ballistics Apex Mastery 6",
+        "token_cost": 70,
+        "damage_multiplier": 1.3,
+        "range_multiplier": 1.18,
+        "description": "Enhances ballistics weapon class output by 30%."
+      },
+      {
+        "tier": 7,
+        "node_id": "ballistics_tier_7",
+        "name": "Ballistics Apex Mastery 7",
+        "token_cost": 80,
+        "damage_multiplier": 1.35,
+        "range_multiplier": 1.21,
+        "description": "Enhances ballistics weapon class output by 35%."
+      },
+      {
+        "tier": 8,
+        "node_id": "ballistics_tier_8",
+        "name": "Ballistics Apex Mastery 8",
+        "token_cost": 90,
+        "damage_multiplier": 1.4,
+        "range_multiplier": 1.24,
+        "description": "Enhances ballistics weapon class output by 40%."
+      },
+      {
+        "tier": 9,
+        "node_id": "ballistics_tier_9",
+        "name": "Ballistics Apex Mastery 9",
+        "token_cost": 100,
+        "damage_multiplier": 1.45,
+        "range_multiplier": 1.27,
+        "description": "Enhances ballistics weapon class output by 45%."
+      },
+      {
+        "tier": 10,
+        "node_id": "ballistics_tier_10",
+        "name": "Ballistics Apex Mastery 10",
+        "token_cost": 110,
+        "damage_multiplier": 1.5,
+        "range_multiplier": 1.3,
+        "description": "Enhances ballistics weapon class output by 50%."
+      },
+      {
+        "tier": 11,
+        "node_id": "ballistics_tier_11",
+        "name": "Ballistics Apex Mastery 11",
+        "token_cost": 120,
+        "damage_multiplier": 1.55,
+        "range_multiplier": 1.33,
+        "description": "Enhances ballistics weapon class output by 55%."
+      },
+      {
+        "tier": 12,
+        "node_id": "ballistics_tier_12",
+        "name": "Ballistics Apex Mastery 12",
+        "token_cost": 130,
+        "damage_multiplier": 1.6,
+        "range_multiplier": 1.36,
+        "description": "Enhances ballistics weapon class output by 60%."
+      },
+      {
+        "tier": 13,
+        "node_id": "ballistics_tier_13",
+        "name": "Ballistics Apex Mastery 13",
+        "token_cost": 140,
+        "damage_multiplier": 1.65,
+        "range_multiplier": 1.39,
+        "description": "Enhances ballistics weapon class output by 65%."
+      },
+      {
+        "tier": 14,
+        "node_id": "ballistics_tier_14",
+        "name": "Ballistics Apex Mastery 14",
+        "token_cost": 150,
+        "damage_multiplier": 1.7,
+        "range_multiplier": 1.42,
+        "description": "Enhances ballistics weapon class output by 70%."
+      },
+      {
+        "tier": 15,
+        "node_id": "ballistics_tier_15",
+        "name": "Ballistics Apex Mastery 15",
+        "token_cost": 160,
+        "damage_multiplier": 1.75,
+        "range_multiplier": 1.45,
+        "description": "Enhances ballistics weapon class output by 75%."
+      },
+      {
+        "tier": 16,
+        "node_id": "ballistics_tier_16",
+        "name": "Ballistics Apex Mastery 16",
+        "token_cost": 170,
+        "damage_multiplier": 1.8,
+        "range_multiplier": 1.48,
+        "description": "Enhances ballistics weapon class output by 80%."
+      },
+      {
+        "tier": 17,
+        "node_id": "ballistics_tier_17",
+        "name": "Ballistics Apex Mastery 17",
+        "token_cost": 180,
+        "damage_multiplier": 1.85,
+        "range_multiplier": 1.51,
+        "description": "Enhances ballistics weapon class output by 85%."
+      },
+      {
+        "tier": 18,
+        "node_id": "ballistics_tier_18",
+        "name": "Ballistics Apex Mastery 18",
+        "token_cost": 190,
+        "damage_multiplier": 1.9,
+        "range_multiplier": 1.54,
+        "description": "Enhances ballistics weapon class output by 90%."
+      },
+      {
+        "tier": 19,
+        "node_id": "ballistics_tier_19",
+        "name": "Ballistics Apex Mastery 19",
+        "token_cost": 200,
+        "damage_multiplier": 1.95,
+        "range_multiplier": 1.57,
+        "description": "Enhances ballistics weapon class output by 95%."
+      },
+      {
+        "tier": 20,
+        "node_id": "ballistics_tier_20",
+        "name": "Ballistics Apex Mastery 20",
+        "token_cost": 210,
+        "damage_multiplier": 2.0,
+        "range_multiplier": 1.6,
+        "description": "Enhances ballistics weapon class output by 100%."
+      }
+    ],
+    "energy": [
+      {
+        "tier": 1,
+        "node_id": "energy_tier_1",
+        "name": "Energy Apex Mastery 1",
+        "token_cost": 20,
+        "damage_multiplier": 1.05,
+        "range_multiplier": 1.03,
+        "description": "Enhances energy weapon class output by 5%."
+      },
+      {
+        "tier": 2,
+        "node_id": "energy_tier_2",
+        "name": "Energy Apex Mastery 2",
+        "token_cost": 30,
+        "damage_multiplier": 1.1,
+        "range_multiplier": 1.06,
+        "description": "Enhances energy weapon class output by 10%."
+      },
+      {
+        "tier": 3,
+        "node_id": "energy_tier_3",
+        "name": "Energy Apex Mastery 3",
+        "token_cost": 40,
+        "damage_multiplier": 1.15,
+        "range_multiplier": 1.09,
+        "description": "Enhances energy weapon class output by 15%."
+      },
+      {
+        "tier": 4,
+        "node_id": "energy_tier_4",
+        "name": "Energy Apex Mastery 4",
+        "token_cost": 50,
+        "damage_multiplier": 1.2,
+        "range_multiplier": 1.12,
+        "description": "Enhances energy weapon class output by 20%."
+      },
+      {
+        "tier": 5,
+        "node_id": "energy_tier_5",
+        "name": "Energy Apex Mastery 5",
+        "token_cost": 60,
+        "damage_multiplier": 1.25,
+        "range_multiplier": 1.15,
+        "description": "Enhances energy weapon class output by 25%."
+      },
+      {
+        "tier": 6,
+        "node_id": "energy_tier_6",
+        "name": "Energy Apex Mastery 6",
+        "token_cost": 70,
+        "damage_multiplier": 1.3,
+        "range_multiplier": 1.18,
+        "description": "Enhances energy weapon class output by 30%."
+      },
+      {
+        "tier": 7,
+        "node_id": "energy_tier_7",
+        "name": "Energy Apex Mastery 7",
+        "token_cost": 80,
+        "damage_multiplier": 1.35,
+        "range_multiplier": 1.21,
+        "description": "Enhances energy weapon class output by 35%."
+      },
+      {
+        "tier": 8,
+        "node_id": "energy_tier_8",
+        "name": "Energy Apex Mastery 8",
+        "token_cost": 90,
+        "damage_multiplier": 1.4,
+        "range_multiplier": 1.24,
+        "description": "Enhances energy weapon class output by 40%."
+      },
+      {
+        "tier": 9,
+        "node_id": "energy_tier_9",
+        "name": "Energy Apex Mastery 9",
+        "token_cost": 100,
+        "damage_multiplier": 1.45,
+        "range_multiplier": 1.27,
+        "description": "Enhances energy weapon class output by 45%."
+      },
+      {
+        "tier": 10,
+        "node_id": "energy_tier_10",
+        "name": "Energy Apex Mastery 10",
+        "token_cost": 110,
+        "damage_multiplier": 1.5,
+        "range_multiplier": 1.3,
+        "description": "Enhances energy weapon class output by 50%."
+      },
+      {
+        "tier": 11,
+        "node_id": "energy_tier_11",
+        "name": "Energy Apex Mastery 11",
+        "token_cost": 120,
+        "damage_multiplier": 1.55,
+        "range_multiplier": 1.33,
+        "description": "Enhances energy weapon class output by 55%."
+      },
+      {
+        "tier": 12,
+        "node_id": "energy_tier_12",
+        "name": "Energy Apex Mastery 12",
+        "token_cost": 130,
+        "damage_multiplier": 1.6,
+        "range_multiplier": 1.36,
+        "description": "Enhances energy weapon class output by 60%."
+      },
+      {
+        "tier": 13,
+        "node_id": "energy_tier_13",
+        "name": "Energy Apex Mastery 13",
+        "token_cost": 140,
+        "damage_multiplier": 1.65,
+        "range_multiplier": 1.39,
+        "description": "Enhances energy weapon class output by 65%."
+      },
+      {
+        "tier": 14,
+        "node_id": "energy_tier_14",
+        "name": "Energy Apex Mastery 14",
+        "token_cost": 150,
+        "damage_multiplier": 1.7,
+        "range_multiplier": 1.42,
+        "description": "Enhances energy weapon class output by 70%."
+      },
+      {
+        "tier": 15,
+        "node_id": "energy_tier_15",
+        "name": "Energy Apex Mastery 15",
+        "token_cost": 160,
+        "damage_multiplier": 1.75,
+        "range_multiplier": 1.45,
+        "description": "Enhances energy weapon class output by 75%."
+      },
+      {
+        "tier": 16,
+        "node_id": "energy_tier_16",
+        "name": "Energy Apex Mastery 16",
+        "token_cost": 170,
+        "damage_multiplier": 1.8,
+        "range_multiplier": 1.48,
+        "description": "Enhances energy weapon class output by 80%."
+      },
+      {
+        "tier": 17,
+        "node_id": "energy_tier_17",
+        "name": "Energy Apex Mastery 17",
+        "token_cost": 180,
+        "damage_multiplier": 1.85,
+        "range_multiplier": 1.51,
+        "description": "Enhances energy weapon class output by 85%."
+      },
+      {
+        "tier": 18,
+        "node_id": "energy_tier_18",
+        "name": "Energy Apex Mastery 18",
+        "token_cost": 190,
+        "damage_multiplier": 1.9,
+        "range_multiplier": 1.54,
+        "description": "Enhances energy weapon class output by 90%."
+      },
+      {
+        "tier": 19,
+        "node_id": "energy_tier_19",
+        "name": "Energy Apex Mastery 19",
+        "token_cost": 200,
+        "damage_multiplier": 1.95,
+        "range_multiplier": 1.57,
+        "description": "Enhances energy weapon class output by 95%."
+      },
+      {
+        "tier": 20,
+        "node_id": "energy_tier_20",
+        "name": "Energy Apex Mastery 20",
+        "token_cost": 210,
+        "damage_multiplier": 2.0,
+        "range_multiplier": 1.6,
+        "description": "Enhances energy weapon class output by 100%."
+      }
+    ],
+    "cryo": [
+      {
+        "tier": 1,
+        "node_id": "cryo_tier_1",
+        "name": "Cryo Apex Mastery 1",
+        "token_cost": 20,
+        "damage_multiplier": 1.05,
+        "range_multiplier": 1.03,
+        "description": "Enhances cryo weapon class output by 5%."
+      },
+      {
+        "tier": 2,
+        "node_id": "cryo_tier_2",
+        "name": "Cryo Apex Mastery 2",
+        "token_cost": 30,
+        "damage_multiplier": 1.1,
+        "range_multiplier": 1.06,
+        "description": "Enhances cryo weapon class output by 10%."
+      },
+      {
+        "tier": 3,
+        "node_id": "cryo_tier_3",
+        "name": "Cryo Apex Mastery 3",
+        "token_cost": 40,
+        "damage_multiplier": 1.15,
+        "range_multiplier": 1.09,
+        "description": "Enhances cryo weapon class output by 15%."
+      },
+      {
+        "tier": 4,
+        "node_id": "cryo_tier_4",
+        "name": "Cryo Apex Mastery 4",
+        "token_cost": 50,
+        "damage_multiplier": 1.2,
+        "range_multiplier": 1.12,
+        "description": "Enhances cryo weapon class output by 20%."
+      },
+      {
+        "tier": 5,
+        "node_id": "cryo_tier_5",
+        "name": "Cryo Apex Mastery 5",
+        "token_cost": 60,
+        "damage_multiplier": 1.25,
+        "range_multiplier": 1.15,
+        "description": "Enhances cryo weapon class output by 25%."
+      },
+      {
+        "tier": 6,
+        "node_id": "cryo_tier_6",
+        "name": "Cryo Apex Mastery 6",
+        "token_cost": 70,
+        "damage_multiplier": 1.3,
+        "range_multiplier": 1.18,
+        "description": "Enhances cryo weapon class output by 30%."
+      },
+      {
+        "tier": 7,
+        "node_id": "cryo_tier_7",
+        "name": "Cryo Apex Mastery 7",
+        "token_cost": 80,
+        "damage_multiplier": 1.35,
+        "range_multiplier": 1.21,
+        "description": "Enhances cryo weapon class output by 35%."
+      },
+      {
+        "tier": 8,
+        "node_id": "cryo_tier_8",
+        "name": "Cryo Apex Mastery 8",
+        "token_cost": 90,
+        "damage_multiplier": 1.4,
+        "range_multiplier": 1.24,
+        "description": "Enhances cryo weapon class output by 40%."
+      },
+      {
+        "tier": 9,
+        "node_id": "cryo_tier_9",
+        "name": "Cryo Apex Mastery 9",
+        "token_cost": 100,
+        "damage_multiplier": 1.45,
+        "range_multiplier": 1.27,
+        "description": "Enhances cryo weapon class output by 45%."
+      },
+      {
+        "tier": 10,
+        "node_id": "cryo_tier_10",
+        "name": "Cryo Apex Mastery 10",
+        "token_cost": 110,
+        "damage_multiplier": 1.5,
+        "range_multiplier": 1.3,
+        "description": "Enhances cryo weapon class output by 50%."
+      },
+      {
+        "tier": 11,
+        "node_id": "cryo_tier_11",
+        "name": "Cryo Apex Mastery 11",
+        "token_cost": 120,
+        "damage_multiplier": 1.55,
+        "range_multiplier": 1.33,
+        "description": "Enhances cryo weapon class output by 55%."
+      },
+      {
+        "tier": 12,
+        "node_id": "cryo_tier_12",
+        "name": "Cryo Apex Mastery 12",
+        "token_cost": 130,
+        "damage_multiplier": 1.6,
+        "range_multiplier": 1.36,
+        "description": "Enhances cryo weapon class output by 60%."
+      },
+      {
+        "tier": 13,
+        "node_id": "cryo_tier_13",
+        "name": "Cryo Apex Mastery 13",
+        "token_cost": 140,
+        "damage_multiplier": 1.65,
+        "range_multiplier": 1.39,
+        "description": "Enhances cryo weapon class output by 65%."
+      },
+      {
+        "tier": 14,
+        "node_id": "cryo_tier_14",
+        "name": "Cryo Apex Mastery 14",
+        "token_cost": 150,
+        "damage_multiplier": 1.7,
+        "range_multiplier": 1.42,
+        "description": "Enhances cryo weapon class output by 70%."
+      },
+      {
+        "tier": 15,
+        "node_id": "cryo_tier_15",
+        "name": "Cryo Apex Mastery 15",
+        "token_cost": 160,
+        "damage_multiplier": 1.75,
+        "range_multiplier": 1.45,
+        "description": "Enhances cryo weapon class output by 75%."
+      },
+      {
+        "tier": 16,
+        "node_id": "cryo_tier_16",
+        "name": "Cryo Apex Mastery 16",
+        "token_cost": 170,
+        "damage_multiplier": 1.8,
+        "range_multiplier": 1.48,
+        "description": "Enhances cryo weapon class output by 80%."
+      },
+      {
+        "tier": 17,
+        "node_id": "cryo_tier_17",
+        "name": "Cryo Apex Mastery 17",
+        "token_cost": 180,
+        "damage_multiplier": 1.85,
+        "range_multiplier": 1.51,
+        "description": "Enhances cryo weapon class output by 85%."
+      },
+      {
+        "tier": 18,
+        "node_id": "cryo_tier_18",
+        "name": "Cryo Apex Mastery 18",
+        "token_cost": 190,
+        "damage_multiplier": 1.9,
+        "range_multiplier": 1.54,
+        "description": "Enhances cryo weapon class output by 90%."
+      },
+      {
+        "tier": 19,
+        "node_id": "cryo_tier_19",
+        "name": "Cryo Apex Mastery 19",
+        "token_cost": 200,
+        "damage_multiplier": 1.95,
+        "range_multiplier": 1.57,
+        "description": "Enhances cryo weapon class output by 95%."
+      },
+      {
+        "tier": 20,
+        "node_id": "cryo_tier_20",
+        "name": "Cryo Apex Mastery 20",
+        "token_cost": 210,
+        "damage_multiplier": 2.0,
+        "range_multiplier": 1.6,
+        "description": "Enhances cryo weapon class output by 100%."
+      }
+    ],
+    "commander": [
+      {
+        "tier": 1,
+        "node_id": "commander_tier_1",
+        "name": "Commander Apex Mastery 1",
+        "token_cost": 20,
+        "damage_multiplier": 1.05,
+        "range_multiplier": 1.03,
+        "description": "Enhances commander weapon class output by 5%."
+      },
+      {
+        "tier": 2,
+        "node_id": "commander_tier_2",
+        "name": "Commander Apex Mastery 2",
+        "token_cost": 30,
+        "damage_multiplier": 1.1,
+        "range_multiplier": 1.06,
+        "description": "Enhances commander weapon class output by 10%."
+      },
+      {
+        "tier": 3,
+        "node_id": "commander_tier_3",
+        "name": "Commander Apex Mastery 3",
+        "token_cost": 40,
+        "damage_multiplier": 1.15,
+        "range_multiplier": 1.09,
+        "description": "Enhances commander weapon class output by 15%."
+      },
+      {
+        "tier": 4,
+        "node_id": "commander_tier_4",
+        "name": "Commander Apex Mastery 4",
+        "token_cost": 50,
+        "damage_multiplier": 1.2,
+        "range_multiplier": 1.12,
+        "description": "Enhances commander weapon class output by 20%."
+      },
+      {
+        "tier": 5,
+        "node_id": "commander_tier_5",
+        "name": "Commander Apex Mastery 5",
+        "token_cost": 60,
+        "damage_multiplier": 1.25,
+        "range_multiplier": 1.15,
+        "description": "Enhances commander weapon class output by 25%."
+      },
+      {
+        "tier": 6,
+        "node_id": "commander_tier_6",
+        "name": "Commander Apex Mastery 6",
+        "token_cost": 70,
+        "damage_multiplier": 1.3,
+        "range_multiplier": 1.18,
+        "description": "Enhances commander weapon class output by 30%."
+      },
+      {
+        "tier": 7,
+        "node_id": "commander_tier_7",
+        "name": "Commander Apex Mastery 7",
+        "token_cost": 80,
+        "damage_multiplier": 1.35,
+        "range_multiplier": 1.21,
+        "description": "Enhances commander weapon class output by 35%."
+      },
+      {
+        "tier": 8,
+        "node_id": "commander_tier_8",
+        "name": "Commander Apex Mastery 8",
+        "token_cost": 90,
+        "damage_multiplier": 1.4,
+        "range_multiplier": 1.24,
+        "description": "Enhances commander weapon class output by 40%."
+      },
+      {
+        "tier": 9,
+        "node_id": "commander_tier_9",
+        "name": "Commander Apex Mastery 9",
+        "token_cost": 100,
+        "damage_multiplier": 1.45,
+        "range_multiplier": 1.27,
+        "description": "Enhances commander weapon class output by 45%."
+      },
+      {
+        "tier": 10,
+        "node_id": "commander_tier_10",
+        "name": "Commander Apex Mastery 10",
+        "token_cost": 110,
+        "damage_multiplier": 1.5,
+        "range_multiplier": 1.3,
+        "description": "Enhances commander weapon class output by 50%."
+      },
+      {
+        "tier": 11,
+        "node_id": "commander_tier_11",
+        "name": "Commander Apex Mastery 11",
+        "token_cost": 120,
+        "damage_multiplier": 1.55,
+        "range_multiplier": 1.33,
+        "description": "Enhances commander weapon class output by 55%."
+      },
+      {
+        "tier": 12,
+        "node_id": "commander_tier_12",
+        "name": "Commander Apex Mastery 12",
+        "token_cost": 130,
+        "damage_multiplier": 1.6,
+        "range_multiplier": 1.36,
+        "description": "Enhances commander weapon class output by 60%."
+      },
+      {
+        "tier": 13,
+        "node_id": "commander_tier_13",
+        "name": "Commander Apex Mastery 13",
+        "token_cost": 140,
+        "damage_multiplier": 1.65,
+        "range_multiplier": 1.39,
+        "description": "Enhances commander weapon class output by 65%."
+      },
+      {
+        "tier": 14,
+        "node_id": "commander_tier_14",
+        "name": "Commander Apex Mastery 14",
+        "token_cost": 150,
+        "damage_multiplier": 1.7,
+        "range_multiplier": 1.42,
+        "description": "Enhances commander weapon class output by 70%."
+      },
+      {
+        "tier": 15,
+        "node_id": "commander_tier_15",
+        "name": "Commander Apex Mastery 15",
+        "token_cost": 160,
+        "damage_multiplier": 1.75,
+        "range_multiplier": 1.45,
+        "description": "Enhances commander weapon class output by 75%."
+      },
+      {
+        "tier": 16,
+        "node_id": "commander_tier_16",
+        "name": "Commander Apex Mastery 16",
+        "token_cost": 170,
+        "damage_multiplier": 1.8,
+        "range_multiplier": 1.48,
+        "description": "Enhances commander weapon class output by 80%."
+      },
+      {
+        "tier": 17,
+        "node_id": "commander_tier_17",
+        "name": "Commander Apex Mastery 17",
+        "token_cost": 180,
+        "damage_multiplier": 1.85,
+        "range_multiplier": 1.51,
+        "description": "Enhances commander weapon class output by 85%."
+      },
+      {
+        "tier": 18,
+        "node_id": "commander_tier_18",
+        "name": "Commander Apex Mastery 18",
+        "token_cost": 190,
+        "damage_multiplier": 1.9,
+        "range_multiplier": 1.54,
+        "description": "Enhances commander weapon class output by 90%."
+      },
+      {
+        "tier": 19,
+        "node_id": "commander_tier_19",
+        "name": "Commander Apex Mastery 19",
+        "token_cost": 200,
+        "damage_multiplier": 1.95,
+        "range_multiplier": 1.57,
+        "description": "Enhances commander weapon class output by 95%."
+      },
+      {
+        "tier": 20,
+        "node_id": "commander_tier_20",
+        "name": "Commander Apex Mastery 20",
+        "token_cost": 210,
+        "damage_multiplier": 2.0,
+        "range_multiplier": 1.6,
+        "description": "Enhances commander weapon class output by 100%."
+      }
+    ],
+    "armor": [
+      {
+        "tier": 1,
+        "node_id": "armor_tier_1",
+        "name": "Armor Apex Mastery 1",
+        "token_cost": 20,
+        "damage_multiplier": 1.05,
+        "range_multiplier": 1.03,
+        "description": "Enhances armor weapon class output by 5%."
+      },
+      {
+        "tier": 2,
+        "node_id": "armor_tier_2",
+        "name": "Armor Apex Mastery 2",
+        "token_cost": 30,
+        "damage_multiplier": 1.1,
+        "range_multiplier": 1.06,
+        "description": "Enhances armor weapon class output by 10%."
+      },
+      {
+        "tier": 3,
+        "node_id": "armor_tier_3",
+        "name": "Armor Apex Mastery 3",
+        "token_cost": 40,
+        "damage_multiplier": 1.15,
+        "range_multiplier": 1.09,
+        "description": "Enhances armor weapon class output by 15%."
+      },
+      {
+        "tier": 4,
+        "node_id": "armor_tier_4",
+        "name": "Armor Apex Mastery 4",
+        "token_cost": 50,
+        "damage_multiplier": 1.2,
+        "range_multiplier": 1.12,
+        "description": "Enhances armor weapon class output by 20%."
+      },
+      {
+        "tier": 5,
+        "node_id": "armor_tier_5",
+        "name": "Armor Apex Mastery 5",
+        "token_cost": 60,
+        "damage_multiplier": 1.25,
+        "range_multiplier": 1.15,
+        "description": "Enhances armor weapon class output by 25%."
+      },
+      {
+        "tier": 6,
+        "node_id": "armor_tier_6",
+        "name": "Armor Apex Mastery 6",
+        "token_cost": 70,
+        "damage_multiplier": 1.3,
+        "range_multiplier": 1.18,
+        "description": "Enhances armor weapon class output by 30%."
+      },
+      {
+        "tier": 7,
+        "node_id": "armor_tier_7",
+        "name": "Armor Apex Mastery 7",
+        "token_cost": 80,
+        "damage_multiplier": 1.35,
+        "range_multiplier": 1.21,
+        "description": "Enhances armor weapon class output by 35%."
+      },
+      {
+        "tier": 8,
+        "node_id": "armor_tier_8",
+        "name": "Armor Apex Mastery 8",
+        "token_cost": 90,
+        "damage_multiplier": 1.4,
+        "range_multiplier": 1.24,
+        "description": "Enhances armor weapon class output by 40%."
+      },
+      {
+        "tier": 9,
+        "node_id": "armor_tier_9",
+        "name": "Armor Apex Mastery 9",
+        "token_cost": 100,
+        "damage_multiplier": 1.45,
+        "range_multiplier": 1.27,
+        "description": "Enhances armor weapon class output by 45%."
+      },
+      {
+        "tier": 10,
+        "node_id": "armor_tier_10",
+        "name": "Armor Apex Mastery 10",
+        "token_cost": 110,
+        "damage_multiplier": 1.5,
+        "range_multiplier": 1.3,
+        "description": "Enhances armor weapon class output by 50%."
+      },
+      {
+        "tier": 11,
+        "node_id": "armor_tier_11",
+        "name": "Armor Apex Mastery 11",
+        "token_cost": 120,
+        "damage_multiplier": 1.55,
+        "range_multiplier": 1.33,
+        "description": "Enhances armor weapon class output by 55%."
+      },
+      {
+        "tier": 12,
+        "node_id": "armor_tier_12",
+        "name": "Armor Apex Mastery 12",
+        "token_cost": 130,
+        "damage_multiplier": 1.6,
+        "range_multiplier": 1.36,
+        "description": "Enhances armor weapon class output by 60%."
+      },
+      {
+        "tier": 13,
+        "node_id": "armor_tier_13",
+        "name": "Armor Apex Mastery 13",
+        "token_cost": 140,
+        "damage_multiplier": 1.65,
+        "range_multiplier": 1.39,
+        "description": "Enhances armor weapon class output by 65%."
+      },
+      {
+        "tier": 14,
+        "node_id": "armor_tier_14",
+        "name": "Armor Apex Mastery 14",
+        "token_cost": 150,
+        "damage_multiplier": 1.7,
+        "range_multiplier": 1.42,
+        "description": "Enhances armor weapon class output by 70%."
+      },
+      {
+        "tier": 15,
+        "node_id": "armor_tier_15",
+        "name": "Armor Apex Mastery 15",
+        "token_cost": 160,
+        "damage_multiplier": 1.75,
+        "range_multiplier": 1.45,
+        "description": "Enhances armor weapon class output by 75%."
+      },
+      {
+        "tier": 16,
+        "node_id": "armor_tier_16",
+        "name": "Armor Apex Mastery 16",
+        "token_cost": 170,
+        "damage_multiplier": 1.8,
+        "range_multiplier": 1.48,
+        "description": "Enhances armor weapon class output by 80%."
+      },
+      {
+        "tier": 17,
+        "node_id": "armor_tier_17",
+        "name": "Armor Apex Mastery 17",
+        "token_cost": 180,
+        "damage_multiplier": 1.85,
+        "range_multiplier": 1.51,
+        "description": "Enhances armor weapon class output by 85%."
+      },
+      {
+        "tier": 18,
+        "node_id": "armor_tier_18",
+        "name": "Armor Apex Mastery 18",
+        "token_cost": 190,
+        "damage_multiplier": 1.9,
+        "range_multiplier": 1.54,
+        "description": "Enhances armor weapon class output by 90%."
+      },
+      {
+        "tier": 19,
+        "node_id": "armor_tier_19",
+        "name": "Armor Apex Mastery 19",
+        "token_cost": 200,
+        "damage_multiplier": 1.95,
+        "range_multiplier": 1.57,
+        "description": "Enhances armor weapon class output by 95%."
+      },
+      {
+        "tier": 20,
+        "node_id": "armor_tier_20",
+        "name": "Armor Apex Mastery 20",
+        "token_cost": 210,
+        "damage_multiplier": 2.0,
+        "range_multiplier": 1.6,
+        "description": "Enhances armor weapon class output by 100%."
+      }
+    ],
+    "economy": [
+      {
+        "tier": 1,
+        "node_id": "economy_tier_1",
+        "name": "Economy Apex Mastery 1",
+        "token_cost": 20,
+        "damage_multiplier": 1.05,
+        "range_multiplier": 1.03,
+        "description": "Enhances economy weapon class output by 5%."
+      },
+      {
+        "tier": 2,
+        "node_id": "economy_tier_2",
+        "name": "Economy Apex Mastery 2",
+        "token_cost": 30,
+        "damage_multiplier": 1.1,
+        "range_multiplier": 1.06,
+        "description": "Enhances economy weapon class output by 10%."
+      },
+      {
+        "tier": 3,
+        "node_id": "economy_tier_3",
+        "name": "Economy Apex Mastery 3",
+        "token_cost": 40,
+        "damage_multiplier": 1.15,
+        "range_multiplier": 1.09,
+        "description": "Enhances economy weapon class output by 15%."
+      },
+      {
+        "tier": 4,
+        "node_id": "economy_tier_4",
+        "name": "Economy Apex Mastery 4",
+        "token_cost": 50,
+        "damage_multiplier": 1.2,
+        "range_multiplier": 1.12,
+        "description": "Enhances economy weapon class output by 20%."
+      },
+      {
+        "tier": 5,
+        "node_id": "economy_tier_5",
+        "name": "Economy Apex Mastery 5",
+        "token_cost": 60,
+        "damage_multiplier": 1.25,
+        "range_multiplier": 1.15,
+        "description": "Enhances economy weapon class output by 25%."
+      },
+      {
+        "tier": 6,
+        "node_id": "economy_tier_6",
+        "name": "Economy Apex Mastery 6",
+        "token_cost": 70,
+        "damage_multiplier": 1.3,
+        "range_multiplier": 1.18,
+        "description": "Enhances economy weapon class output by 30%."
+      },
+      {
+        "tier": 7,
+        "node_id": "economy_tier_7",
+        "name": "Economy Apex Mastery 7",
+        "token_cost": 80,
+        "damage_multiplier": 1.35,
+        "range_multiplier": 1.21,
+        "description": "Enhances economy weapon class output by 35%."
+      },
+      {
+        "tier": 8,
+        "node_id": "economy_tier_8",
+        "name": "Economy Apex Mastery 8",
+        "token_cost": 90,
+        "damage_multiplier": 1.4,
+        "range_multiplier": 1.24,
+        "description": "Enhances economy weapon class output by 40%."
+      },
+      {
+        "tier": 9,
+        "node_id": "economy_tier_9",
+        "name": "Economy Apex Mastery 9",
+        "token_cost": 100,
+        "damage_multiplier": 1.45,
+        "range_multiplier": 1.27,
+        "description": "Enhances economy weapon class output by 45%."
+      },
+      {
+        "tier": 10,
+        "node_id": "economy_tier_10",
+        "name": "Economy Apex Mastery 10",
+        "token_cost": 110,
+        "damage_multiplier": 1.5,
+        "range_multiplier": 1.3,
+        "description": "Enhances economy weapon class output by 50%."
+      },
+      {
+        "tier": 11,
+        "node_id": "economy_tier_11",
+        "name": "Economy Apex Mastery 11",
+        "token_cost": 120,
+        "damage_multiplier": 1.55,
+        "range_multiplier": 1.33,
+        "description": "Enhances economy weapon class output by 55%."
+      },
+      {
+        "tier": 12,
+        "node_id": "economy_tier_12",
+        "name": "Economy Apex Mastery 12",
+        "token_cost": 130,
+        "damage_multiplier": 1.6,
+        "range_multiplier": 1.36,
+        "description": "Enhances economy weapon class output by 60%."
+      },
+      {
+        "tier": 13,
+        "node_id": "economy_tier_13",
+        "name": "Economy Apex Mastery 13",
+        "token_cost": 140,
+        "damage_multiplier": 1.65,
+        "range_multiplier": 1.39,
+        "description": "Enhances economy weapon class output by 65%."
+      },
+      {
+        "tier": 14,
+        "node_id": "economy_tier_14",
+        "name": "Economy Apex Mastery 14",
+        "token_cost": 150,
+        "damage_multiplier": 1.7,
+        "range_multiplier": 1.42,
+        "description": "Enhances economy weapon class output by 70%."
+      },
+      {
+        "tier": 15,
+        "node_id": "economy_tier_15",
+        "name": "Economy Apex Mastery 15",
+        "token_cost": 160,
+        "damage_multiplier": 1.75,
+        "range_multiplier": 1.45,
+        "description": "Enhances economy weapon class output by 75%."
+      },
+      {
+        "tier": 16,
+        "node_id": "economy_tier_16",
+        "name": "Economy Apex Mastery 16",
+        "token_cost": 170,
+        "damage_multiplier": 1.8,
+        "range_multiplier": 1.48,
+        "description": "Enhances economy weapon class output by 80%."
+      },
+      {
+        "tier": 17,
+        "node_id": "economy_tier_17",
+        "name": "Economy Apex Mastery 17",
+        "token_cost": 180,
+        "damage_multiplier": 1.85,
+        "range_multiplier": 1.51,
+        "description": "Enhances economy weapon class output by 85%."
+      },
+      {
+        "tier": 18,
+        "node_id": "economy_tier_18",
+        "name": "Economy Apex Mastery 18",
+        "token_cost": 190,
+        "damage_multiplier": 1.9,
+        "range_multiplier": 1.54,
+        "description": "Enhances economy weapon class output by 90%."
+      },
+      {
+        "tier": 19,
+        "node_id": "economy_tier_19",
+        "name": "Economy Apex Mastery 19",
+        "token_cost": 200,
+        "damage_multiplier": 1.95,
+        "range_multiplier": 1.57,
+        "description": "Enhances economy weapon class output by 95%."
+      },
+      {
+        "tier": 20,
+        "node_id": "economy_tier_20",
+        "name": "Economy Apex Mastery 20",
+        "token_cost": 210,
+        "damage_multiplier": 2.0,
+        "range_multiplier": 1.6,
+        "description": "Enhances economy weapon class output by 100%."
+      }
+    ]
+  }
+}

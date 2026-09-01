@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0.0",
+  "enemies": [
+    {
+      "id": "scout_infiltrator",
+      "name": "Scout Infiltrator",
+      "archetype": "FAST",
+      "hp": 65.0,
+      "speed": 105.0,
+      "flying": false,
+      "reward": 10
+    },
+    {
+      "id": "armored_juggernaut",
+      "name": "Armored Juggernaut",
+      "archetype": "ARMORED",
+      "hp": 450.0,
+      "speed": 35.0,
+      "flying": false,
+      "reward": 35
+    },
+    {
+      "id": "phantom_infiltrator",
+      "name": "Phantom Infiltrator",
+      "archetype": "ASSASSIN",
+      "hp": 120.0,
+      "speed": 85.0,
+      "flying": false,
+      "reward": 22
+    },
+    {
+      "id": "aero_interceptor",
+      "name": "Aero Interceptor",
+      "archetype": "FLYING",
+      "hp": 95.0,
+      "speed": 90.0,
+      "flying": true,
+      "reward": 16
+    },
+    {
+      "id": "aegis_shield_bearer",
+      "name": "Aegis Shield Bearer",
+      "archetype": "SHIELDED",
+      "hp": 180.0,
+      "speed": 45.0,
+      "flying": false,
+      "reward": 30
+    },
+    {
+      "id": "nanite_medic",
+      "name": "Nanite Field Medic",
+      "archetype": "HEALER",
+      "hp": 150.0,
+      "speed": 60.0,
+      "flying": false,
+      "reward": 28
+    },
+    {
+      "id": "emp_saboteur",
+      "name": "EMP Saboteur",
+      "archetype": "DISRUPTOR",
+      "hp": 140.0,
+      "speed": 70.0,
+      "flying": false,
+      "reward": 32
+    },
+    {
+      "id": "hydra_broodmother",
+      "name": "Hydra Broodmother",
+      "archetype": "SPLITTER",
+      "hp": 320.0,
+      "speed": 40.0,
+      "flying": false,
+      "reward": 40
+    },
+    {
+      "id": "shadow_assassin",
+      "name": "Shadow Assassin",
+      "archetype": "ASSASSIN",
+      "hp": 160.0,
+      "speed": 95.0,
+      "flying": false,
+      "reward": 34
+    },
+    {
+      "id": "siege_breaker_ram",
+      "name": "Siege Breaker Ram",
+      "archetype": "BUILDER",
+      "hp": 500.0,
+      "speed": 30.0,
+      "flying": false,
+      "reward": 50
+    },
+    {
+      "id": "dreadnought_titan",
+      "name": "Dreadnought Titan",
+      "archetype": "BOSS",
+      "hp": 3500.0,
+      "speed": 28.0,
+      "flying": false,
+      "reward": 400
+    },
+    {
+      "id": "cyber_hive_carrier",
+      "name": "Cyber Hive Carrier",
+      "archetype": "BOSS",
+      "hp": 2800.0,
+      "speed": 32.0,
+      "flying": true,
+      "reward": 350
+    }
+  ]
+}

@@ -1,0 +1,2285 @@
+{
+  "schema_version": "1.0.0",
+  "combat_interactions": [
+    {
+      "tower": "vulcan",
+      "enemy": "scout",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "vulcan",
+      "enemy": "juggernaut",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "vulcan",
+      "enemy": "phantom",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "vulcan",
+      "enemy": "interceptor",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "vulcan",
+      "enemy": "shield_bearer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "vulcan",
+      "enemy": "medic",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "vulcan",
+      "enemy": "saboteur",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "vulcan",
+      "enemy": "broodmother",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "vulcan",
+      "enemy": "assassin",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "vulcan",
+      "enemy": "siege_ram",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "vulcan",
+      "enemy": "titan",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "vulcan",
+      "enemy": "carrier",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "vulcan",
+      "enemy": "swarmer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "vulcan",
+      "enemy": "colossus",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "vulcan",
+      "enemy": "parasite",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "vulcan",
+      "enemy": "phase",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "vulcan",
+      "enemy": "warp",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "vulcan",
+      "enemy": "vanguard",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "vulcan",
+      "enemy": "frost",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "vulcan",
+      "enemy": "overlord",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "gauss",
+      "enemy": "scout",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "gauss",
+      "enemy": "juggernaut",
+      "efficiency_rating": 1.25,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "gauss",
+      "enemy": "phantom",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "gauss",
+      "enemy": "interceptor",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "gauss",
+      "enemy": "shield_bearer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "gauss",
+      "enemy": "medic",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "gauss",
+      "enemy": "saboteur",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "gauss",
+      "enemy": "broodmother",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "gauss",
+      "enemy": "assassin",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "gauss",
+      "enemy": "siege_ram",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "gauss",
+      "enemy": "titan",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "gauss",
+      "enemy": "carrier",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "gauss",
+      "enemy": "swarmer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "gauss",
+      "enemy": "colossus",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "gauss",
+      "enemy": "parasite",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "gauss",
+      "enemy": "phase",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "gauss",
+      "enemy": "warp",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "gauss",
+      "enemy": "vanguard",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "gauss",
+      "enemy": "frost",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "gauss",
+      "enemy": "overlord",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "tachyon",
+      "enemy": "scout",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tachyon",
+      "enemy": "juggernaut",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tachyon",
+      "enemy": "phantom",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tachyon",
+      "enemy": "interceptor",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tachyon",
+      "enemy": "shield_bearer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tachyon",
+      "enemy": "medic",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tachyon",
+      "enemy": "saboteur",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tachyon",
+      "enemy": "broodmother",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tachyon",
+      "enemy": "assassin",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tachyon",
+      "enemy": "siege_ram",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tachyon",
+      "enemy": "titan",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tachyon",
+      "enemy": "carrier",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tachyon",
+      "enemy": "swarmer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tachyon",
+      "enemy": "colossus",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tachyon",
+      "enemy": "parasite",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tachyon",
+      "enemy": "phase",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tachyon",
+      "enemy": "warp",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tachyon",
+      "enemy": "vanguard",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tachyon",
+      "enemy": "frost",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tachyon",
+      "enemy": "overlord",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "cryo",
+      "enemy": "scout",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "cryo",
+      "enemy": "juggernaut",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "cryo",
+      "enemy": "phantom",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "cryo",
+      "enemy": "interceptor",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "cryo",
+      "enemy": "shield_bearer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "cryo",
+      "enemy": "medic",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "cryo",
+      "enemy": "saboteur",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "cryo",
+      "enemy": "broodmother",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "cryo",
+      "enemy": "assassin",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "cryo",
+      "enemy": "siege_ram",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "cryo",
+      "enemy": "titan",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "cryo",
+      "enemy": "carrier",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "cryo",
+      "enemy": "swarmer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "cryo",
+      "enemy": "colossus",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "cryo",
+      "enemy": "parasite",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "cryo",
+      "enemy": "phase",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "cryo",
+      "enemy": "warp",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "cryo",
+      "enemy": "vanguard",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "cryo",
+      "enemy": "frost",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "cryo",
+      "enemy": "overlord",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tesla",
+      "enemy": "scout",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tesla",
+      "enemy": "juggernaut",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tesla",
+      "enemy": "phantom",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tesla",
+      "enemy": "interceptor",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tesla",
+      "enemy": "shield_bearer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tesla",
+      "enemy": "medic",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tesla",
+      "enemy": "saboteur",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tesla",
+      "enemy": "broodmother",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tesla",
+      "enemy": "assassin",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tesla",
+      "enemy": "siege_ram",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tesla",
+      "enemy": "titan",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tesla",
+      "enemy": "carrier",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tesla",
+      "enemy": "swarmer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tesla",
+      "enemy": "colossus",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tesla",
+      "enemy": "parasite",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tesla",
+      "enemy": "phase",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tesla",
+      "enemy": "warp",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tesla",
+      "enemy": "vanguard",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tesla",
+      "enemy": "frost",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "tesla",
+      "enemy": "overlord",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "nanite",
+      "enemy": "scout",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "nanite",
+      "enemy": "juggernaut",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "nanite",
+      "enemy": "phantom",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "nanite",
+      "enemy": "interceptor",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "nanite",
+      "enemy": "shield_bearer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "nanite",
+      "enemy": "medic",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "nanite",
+      "enemy": "saboteur",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "nanite",
+      "enemy": "broodmother",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "nanite",
+      "enemy": "assassin",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "nanite",
+      "enemy": "siege_ram",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "nanite",
+      "enemy": "titan",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "nanite",
+      "enemy": "carrier",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "nanite",
+      "enemy": "swarmer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "nanite",
+      "enemy": "colossus",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "nanite",
+      "enemy": "parasite",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "nanite",
+      "enemy": "phase",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "nanite",
+      "enemy": "warp",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "nanite",
+      "enemy": "vanguard",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "nanite",
+      "enemy": "frost",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "nanite",
+      "enemy": "overlord",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "howitzer",
+      "enemy": "scout",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "howitzer",
+      "enemy": "juggernaut",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "howitzer",
+      "enemy": "phantom",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "howitzer",
+      "enemy": "interceptor",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "howitzer",
+      "enemy": "shield_bearer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "howitzer",
+      "enemy": "medic",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "howitzer",
+      "enemy": "saboteur",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "howitzer",
+      "enemy": "broodmother",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "howitzer",
+      "enemy": "assassin",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "howitzer",
+      "enemy": "siege_ram",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "howitzer",
+      "enemy": "titan",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "howitzer",
+      "enemy": "carrier",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "howitzer",
+      "enemy": "swarmer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "howitzer",
+      "enemy": "colossus",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "howitzer",
+      "enemy": "parasite",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "howitzer",
+      "enemy": "phase",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "howitzer",
+      "enemy": "warp",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "howitzer",
+      "enemy": "vanguard",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "howitzer",
+      "enemy": "frost",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "howitzer",
+      "enemy": "overlord",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "singularity",
+      "enemy": "scout",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "singularity",
+      "enemy": "juggernaut",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "singularity",
+      "enemy": "phantom",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "singularity",
+      "enemy": "interceptor",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "singularity",
+      "enemy": "shield_bearer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "singularity",
+      "enemy": "medic",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "singularity",
+      "enemy": "saboteur",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "singularity",
+      "enemy": "broodmother",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "singularity",
+      "enemy": "assassin",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "singularity",
+      "enemy": "siege_ram",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "singularity",
+      "enemy": "titan",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "singularity",
+      "enemy": "carrier",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "singularity",
+      "enemy": "swarmer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "singularity",
+      "enemy": "colossus",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "singularity",
+      "enemy": "parasite",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "singularity",
+      "enemy": "phase",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "singularity",
+      "enemy": "warp",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "singularity",
+      "enemy": "vanguard",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "singularity",
+      "enemy": "frost",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "singularity",
+      "enemy": "overlord",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "emp",
+      "enemy": "scout",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "emp",
+      "enemy": "juggernaut",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "emp",
+      "enemy": "phantom",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "emp",
+      "enemy": "interceptor",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "emp",
+      "enemy": "shield_bearer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "emp",
+      "enemy": "medic",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "emp",
+      "enemy": "saboteur",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "emp",
+      "enemy": "broodmother",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "emp",
+      "enemy": "assassin",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "emp",
+      "enemy": "siege_ram",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "emp",
+      "enemy": "titan",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "emp",
+      "enemy": "carrier",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "emp",
+      "enemy": "swarmer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "emp",
+      "enemy": "colossus",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "emp",
+      "enemy": "parasite",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "emp",
+      "enemy": "phase",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "emp",
+      "enemy": "warp",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "emp",
+      "enemy": "vanguard",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "emp",
+      "enemy": "frost",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "emp",
+      "enemy": "overlord",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "flak",
+      "enemy": "scout",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "flak",
+      "enemy": "juggernaut",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "flak",
+      "enemy": "phantom",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "flak",
+      "enemy": "interceptor",
+      "efficiency_rating": 1.25,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "flak",
+      "enemy": "shield_bearer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "flak",
+      "enemy": "medic",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "flak",
+      "enemy": "saboteur",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "flak",
+      "enemy": "broodmother",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "flak",
+      "enemy": "assassin",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "flak",
+      "enemy": "siege_ram",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "flak",
+      "enemy": "titan",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "flak",
+      "enemy": "carrier",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "flak",
+      "enemy": "swarmer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "flak",
+      "enemy": "colossus",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "flak",
+      "enemy": "parasite",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "flak",
+      "enemy": "phase",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "flak",
+      "enemy": "warp",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "flak",
+      "enemy": "vanguard",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "flak",
+      "enemy": "frost",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "flak",
+      "enemy": "overlord",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "plasma",
+      "enemy": "scout",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "plasma",
+      "enemy": "juggernaut",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "plasma",
+      "enemy": "phantom",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "plasma",
+      "enemy": "interceptor",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "plasma",
+      "enemy": "shield_bearer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "plasma",
+      "enemy": "medic",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "plasma",
+      "enemy": "saboteur",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "plasma",
+      "enemy": "broodmother",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "plasma",
+      "enemy": "assassin",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "plasma",
+      "enemy": "siege_ram",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "plasma",
+      "enemy": "titan",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "plasma",
+      "enemy": "carrier",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "plasma",
+      "enemy": "swarmer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "plasma",
+      "enemy": "colossus",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "plasma",
+      "enemy": "parasite",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "plasma",
+      "enemy": "phase",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "plasma",
+      "enemy": "warp",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "plasma",
+      "enemy": "vanguard",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "plasma",
+      "enemy": "frost",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "plasma",
+      "enemy": "overlord",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "chrono",
+      "enemy": "scout",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "chrono",
+      "enemy": "juggernaut",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "chrono",
+      "enemy": "phantom",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "chrono",
+      "enemy": "interceptor",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "chrono",
+      "enemy": "shield_bearer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "chrono",
+      "enemy": "medic",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "chrono",
+      "enemy": "saboteur",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "chrono",
+      "enemy": "broodmother",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "chrono",
+      "enemy": "assassin",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "chrono",
+      "enemy": "siege_ram",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "chrono",
+      "enemy": "titan",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "chrono",
+      "enemy": "carrier",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "chrono",
+      "enemy": "swarmer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "chrono",
+      "enemy": "colossus",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "chrono",
+      "enemy": "parasite",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "chrono",
+      "enemy": "phase",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "chrono",
+      "enemy": "warp",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "chrono",
+      "enemy": "vanguard",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "chrono",
+      "enemy": "frost",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "chrono",
+      "enemy": "overlord",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "refinery",
+      "enemy": "scout",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "refinery",
+      "enemy": "juggernaut",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "refinery",
+      "enemy": "phantom",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "refinery",
+      "enemy": "interceptor",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "refinery",
+      "enemy": "shield_bearer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "refinery",
+      "enemy": "medic",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "refinery",
+      "enemy": "saboteur",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "refinery",
+      "enemy": "broodmother",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "refinery",
+      "enemy": "assassin",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "refinery",
+      "enemy": "siege_ram",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "refinery",
+      "enemy": "titan",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "refinery",
+      "enemy": "carrier",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "refinery",
+      "enemy": "swarmer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "refinery",
+      "enemy": "colossus",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "refinery",
+      "enemy": "parasite",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "refinery",
+      "enemy": "phase",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "refinery",
+      "enemy": "warp",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "refinery",
+      "enemy": "vanguard",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "refinery",
+      "enemy": "frost",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "refinery",
+      "enemy": "overlord",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "solar",
+      "enemy": "scout",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "solar",
+      "enemy": "juggernaut",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "solar",
+      "enemy": "phantom",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "solar",
+      "enemy": "interceptor",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "solar",
+      "enemy": "shield_bearer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "solar",
+      "enemy": "medic",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "solar",
+      "enemy": "saboteur",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "solar",
+      "enemy": "broodmother",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "solar",
+      "enemy": "assassin",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "solar",
+      "enemy": "siege_ram",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "solar",
+      "enemy": "titan",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "solar",
+      "enemy": "carrier",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "solar",
+      "enemy": "swarmer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "solar",
+      "enemy": "colossus",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "solar",
+      "enemy": "parasite",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "solar",
+      "enemy": "phase",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "solar",
+      "enemy": "warp",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "solar",
+      "enemy": "vanguard",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "solar",
+      "enemy": "frost",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "solar",
+      "enemy": "overlord",
+      "efficiency_rating": 1.0,
+      "recommended_range": "LONG"
+    },
+    {
+      "tower": "sonic",
+      "enemy": "scout",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "sonic",
+      "enemy": "juggernaut",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "sonic",
+      "enemy": "phantom",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "sonic",
+      "enemy": "interceptor",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "sonic",
+      "enemy": "shield_bearer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "sonic",
+      "enemy": "medic",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "sonic",
+      "enemy": "saboteur",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "sonic",
+      "enemy": "broodmother",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "sonic",
+      "enemy": "assassin",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "sonic",
+      "enemy": "siege_ram",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "sonic",
+      "enemy": "titan",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "sonic",
+      "enemy": "carrier",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "sonic",
+      "enemy": "swarmer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "sonic",
+      "enemy": "colossus",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "sonic",
+      "enemy": "parasite",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "sonic",
+      "enemy": "phase",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "sonic",
+      "enemy": "warp",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "sonic",
+      "enemy": "vanguard",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "sonic",
+      "enemy": "frost",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "sonic",
+      "enemy": "overlord",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "overcharger",
+      "enemy": "scout",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "overcharger",
+      "enemy": "juggernaut",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "overcharger",
+      "enemy": "phantom",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "overcharger",
+      "enemy": "interceptor",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "overcharger",
+      "enemy": "shield_bearer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "overcharger",
+      "enemy": "medic",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "overcharger",
+      "enemy": "saboteur",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "overcharger",
+      "enemy": "broodmother",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "overcharger",
+      "enemy": "assassin",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "overcharger",
+      "enemy": "siege_ram",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "overcharger",
+      "enemy": "titan",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "overcharger",
+      "enemy": "carrier",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "overcharger",
+      "enemy": "swarmer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "overcharger",
+      "enemy": "colossus",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "overcharger",
+      "enemy": "parasite",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "overcharger",
+      "enemy": "phase",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "overcharger",
+      "enemy": "warp",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "overcharger",
+      "enemy": "vanguard",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "overcharger",
+      "enemy": "frost",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "overcharger",
+      "enemy": "overlord",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "missile",
+      "enemy": "scout",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "missile",
+      "enemy": "juggernaut",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "missile",
+      "enemy": "phantom",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "missile",
+      "enemy": "interceptor",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "missile",
+      "enemy": "shield_bearer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "missile",
+      "enemy": "medic",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "missile",
+      "enemy": "saboteur",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "missile",
+      "enemy": "broodmother",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "missile",
+      "enemy": "assassin",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "missile",
+      "enemy": "siege_ram",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "missile",
+      "enemy": "titan",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "missile",
+      "enemy": "carrier",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "missile",
+      "enemy": "swarmer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "missile",
+      "enemy": "colossus",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "missile",
+      "enemy": "parasite",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "missile",
+      "enemy": "phase",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "missile",
+      "enemy": "warp",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "missile",
+      "enemy": "vanguard",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "missile",
+      "enemy": "frost",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "missile",
+      "enemy": "overlord",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "aegis",
+      "enemy": "scout",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "aegis",
+      "enemy": "juggernaut",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "aegis",
+      "enemy": "phantom",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "aegis",
+      "enemy": "interceptor",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "aegis",
+      "enemy": "shield_bearer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "aegis",
+      "enemy": "medic",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "aegis",
+      "enemy": "saboteur",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "aegis",
+      "enemy": "broodmother",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "aegis",
+      "enemy": "assassin",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "aegis",
+      "enemy": "siege_ram",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "aegis",
+      "enemy": "titan",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "aegis",
+      "enemy": "carrier",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "aegis",
+      "enemy": "swarmer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "aegis",
+      "enemy": "colossus",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "aegis",
+      "enemy": "parasite",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "aegis",
+      "enemy": "phase",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "aegis",
+      "enemy": "warp",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "aegis",
+      "enemy": "vanguard",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "aegis",
+      "enemy": "frost",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "aegis",
+      "enemy": "overlord",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "quantum",
+      "enemy": "scout",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "quantum",
+      "enemy": "juggernaut",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "quantum",
+      "enemy": "phantom",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "quantum",
+      "enemy": "interceptor",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "quantum",
+      "enemy": "shield_bearer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "quantum",
+      "enemy": "medic",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "quantum",
+      "enemy": "saboteur",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "quantum",
+      "enemy": "broodmother",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "quantum",
+      "enemy": "assassin",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "quantum",
+      "enemy": "siege_ram",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "quantum",
+      "enemy": "titan",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "quantum",
+      "enemy": "carrier",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "quantum",
+      "enemy": "swarmer",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "quantum",
+      "enemy": "colossus",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "quantum",
+      "enemy": "parasite",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "quantum",
+      "enemy": "phase",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "quantum",
+      "enemy": "warp",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "quantum",
+      "enemy": "vanguard",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "quantum",
+      "enemy": "frost",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    },
+    {
+      "tower": "quantum",
+      "enemy": "overlord",
+      "efficiency_rating": 1.0,
+      "recommended_range": "MEDIUM"
+    }
+  ]
+}
