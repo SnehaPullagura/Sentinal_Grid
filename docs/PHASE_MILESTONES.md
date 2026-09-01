@@ -10,3 +10,7 @@
 ## Phase 3: 20 Specialized Towers, Targeting Matrix & Elemental Reactions
 - Status: Implemented & Verified
 - Details: Implements 20 tower archetypes, 7 targeting strategies, 10 status effects, and 4 elemental reactions (Thermal Shock, Overload, Sunder, Superconductor).
+
+## Phase 4: 20 Enemy Archetypes, Behavior Trees & Multi-Phase Bosses
+- Status: Implemented & Verified
+- Details: Implements 20 enemy controllers, perception modeling, Action/Selector/Sequence behavior trees, and 3-phase enraging boss state machines.
