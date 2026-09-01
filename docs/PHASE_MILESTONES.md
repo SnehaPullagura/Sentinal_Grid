@@ -6,3 +6,7 @@
 ## Phase 2: Dual-Layer 8-Way A* Pathfinding & Dynamic FlowFields
 - Status: Implemented & Verified
 - Details: Implements 8-directional terrain navigation graph, dynamic obstacle placement, line-of-sight smoothing, and swarm flowfields.
+
+## Phase 3: 20 Specialized Towers, Targeting Matrix & Elemental Reactions
+- Status: Implemented & Verified
+- Details: Implements 20 tower archetypes, 7 targeting strategies, 10 status effects, and 4 elemental reactions (Thermal Shock, Overload, Sunder, Superconductor).
