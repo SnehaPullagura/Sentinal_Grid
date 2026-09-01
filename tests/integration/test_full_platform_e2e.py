@@ -1,4 +1,5 @@
 ﻿import pytest
+import uuid
 from client.simulation.game_state import SimulationKernel
 from client.math.vector2d import Vector2D
 from client.entities.entity_model import Entity, TransformComponent, HealthComponent
@@ -54,16 +55,18 @@ def test_full_platform_end_to_end():
     init_db()
     db = SessionLocal()
     try:
-        user = AuthService.register_user(db, "E2E_Tester_Unique", "test@sentinel.grid", "Password123")
+        unique_name = f"Tester_{uuid.uuid4().hex[:6]}"
+        unique_email = f"test_{uuid.uuid4().hex[:6]}@sentinel.grid"
+        user = AuthService.register_user(db, unique_name, unique_email, "Password123")
         assert user.id is not None
 
-        lb_entry = LeaderboardService.record_score(db, "E2E_Tester_Unique", "sector_01", score=12500, waves_cleared=10)
+        lb_entry = LeaderboardService.record_score(db, unique_name, "sector_01", score=12500, waves_cleared=10)
         assert lb_entry.score == 12500
 
         top_scores = LeaderboardService.get_top_scores(db, "sector_01", limit=10)
         assert len(top_scores) >= 1
 
-        rep_rec = ReplayService.save_replay(db, "E2E_Tester_Unique", "sector_01", 12500, serialized_rep)
+        rep_rec = ReplayService.save_replay(db, unique_name, "sector_01", 12500, serialized_rep)
         assert rep_rec.replay_id is not None
     finally:
         db.close()
